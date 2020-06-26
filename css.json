@@ -1,0 +1,10 @@
+{
+    "h1": {
+        "width": "200px",
+        "fontSize": "14px"
+    },
+    "h2": {
+        "height": "100px",
+        "text-align": "center"
+    }
+}

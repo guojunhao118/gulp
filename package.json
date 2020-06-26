@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+      "gulp": "3.9",
+      "run-sequence": "^2.2.1"
+    },
+    "scripts": {
+      "build": "gulp"
+    }
+  }
+  
